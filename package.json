@@ -1,0 +1,23 @@
+{
+  "name": "tdd-practice",
+  "version": "1.0.0",
+  "description": "Practicing with the funfunfunction TDD series",
+  "main": "code.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ash-automates/TDD-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ash-automates/TDD-practice/issues"
+  },
+  "homepage": "https://github.com/ash-automates/TDD-practice#readme",
+  "devDependencies": {
+    "jest": "^29.0.1"
+  }
+}
